@@ -8,3 +8,9 @@ To run it:
 ```sh
 docker run felipebergamin/codeeducation
 ```
+
+## Container size
+
+As asked on the challenge, the file size is smaller than 2M
+
+![image](https://user-images.githubusercontent.com/17731880/111234687-df88b380-85cd-11eb-809b-842ea1fcf4b5.png)
